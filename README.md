@@ -15,6 +15,8 @@ This documentation provides a step-by-step walkthrough of deploying a containeri
 
 ## 🚀 Step-by-Step Deployment Guide with Solutions
 
+E-commerce Application Source Code and DB Scripts: Available at [kodekloudhub/learning-app-ecommerce](https://github.com/kodekloudhub/learning-app-ecommerce). Familiarize yourself with the application structure and database scripts provided.
+
 ### Step 1: Set Up AWS EKS Cluster
 
 **Task:** Create and configure EKS cluster with `kubectl` access.
