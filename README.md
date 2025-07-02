@@ -268,8 +268,6 @@ This project demonstrated how to:
 
 ## ✅ Next Steps
 
-- Add PVC for MariaDB data
-- Set up CI/CD with GitHub Actions
 - Secure app with HTTPS via Ingress + cert-manager
 - Add monitoring (Prometheus + Grafana)
 
